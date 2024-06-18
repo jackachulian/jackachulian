@@ -5,7 +5,7 @@ I'm Jack Caesar. I mostly work on video games in the Lemnsicate Games series, bu
 Currently a sophomore in college studying computer science as Southern Illinois University Edwardsville.
 (I'm also a musician, I play trombone and piano, and make music sometimes.)
 
-The biggest project I've worked on is [Mana Cycle](https://infinityjka.itch.io/mana-cycle), originally made for TSA Video Game Design competition, now an indie game made by me and 2 others, planned to rleease on Steam in Summer 2024.
+The biggest project I've worked on is [Mana Cycle](https://infinityjka.itch.io/mana-cycle), originally made for TSA Video Game Design competition, now an indie game made by me and 2 others, planned to release on Steam in Summer 2024.
 
 ## Skills - Software
 #### Unity Game Engine
