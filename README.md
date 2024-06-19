@@ -10,7 +10,7 @@ The biggest project I've worked on is [Mana Cycle](https://infinityjka.itch.io/m
 ## Skills - Software
 #### Unity Game Engine
 -  Mana Cycle
--  Plenty of other games with varying amounts of development time.
+-  Plenty of other games with varying amounts of development time. Many are made for game jam (hackathon-like events but for games). My games released on itch.io can be found here: https://jackachulian.itch.io
 #### Godot Game Engine
 - Just started learning this but I plan to use it a lot. Made my first game with it in about 2 weeks: https://jackachulian.itch.io/infinity-realm-trials
 
